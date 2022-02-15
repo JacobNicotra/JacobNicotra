@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hey! Thanks for stopping by! 👋
 
-<!--
-**JacobNicotra/JacobNicotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<a  target="blank"><img align="center" src="https://media4.giphy.com/media/xUOxfg0ESyhKOv4Vva/200w.webp?cid=ecf05e47crgr9jikt6kl382zumz0h1xwnprg4y8vu30ixwcp&rid=200w.webp&ct=g" height="100" /></a>
+
+My name is Jacob Nicotra, and I'm a software engineer. I like tackling difficult problems, and using creativity to optimize processes.
+
+Some technologies I have been working with recently: 
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
