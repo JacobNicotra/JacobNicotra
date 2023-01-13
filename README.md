@@ -16,7 +16,8 @@ Some technologies I have been working with recently:
 
 
 
-- 🔭 I’m currently working on a puzzle-swapping platform called "Perfect Fit", which is built with Python, Javascript, React - Redux, and Flask!
+- 🔭 I’m currently contracted by Google, where I develop cloud-based applications and pipelines!
+- I recently placed 2nd place with my team in the OpenAI Hackathon for Climate Change. Check out [this blog post](https://climatepolicyradar.org/latest/hacking-ai-for-climate-policy) written about the AI product we created, "Climate Policy Copilot".
 - 🥾 When I'm not coding you can find me enjoying nature, 🎮 gaming,🍴 or trying new foods!
 - 💬 Ask me about my future projects, favorite games, or food of choice.
 - 📫 How to reach me: nicotra1008@gmail.com
