@@ -17,10 +17,10 @@ Some technologies I have been working with recently:
 
 
 - 🔭 I’m currently contracted by Google, where I develop cloud-based applications and pipelines!
-- I recently placed 2nd place with my team in the OpenAI Hackathon for Climate Change. Check out [this blog post](https://climatepolicyradar.org/latest/hacking-ai-for-climate-policy) written about the AI product we created, "Climate Policy Copilot".
-- 🥾 When I'm not coding you can find me enjoying nature, 🎮 gaming,🍴 or trying new foods!
+- I recently placed 2nd place with my team in the OpenAI Hackathon for Climate Change. Check out [this blog post](https://climatepolicyradar.org/latest/hacking-ai-for-climate-policy) written about the AI product we created, "Climate Policy Copilot". We are currently continuing development of our product.
+- 🥾 When I'm not coding you can find me enjoying nature, 🎮 gaming,🍴 or trying new foods.
 - 💬 Ask me about my future projects, favorite games, or food of choice.
-- 📫 How to reach me: nicotra1008@gmail.com
+- 📫 How to reach me: nicotra1008@gmail.com, [linkedin](https://www.linkedin.com/in/jacobnicotra/), [Linktree](https://linktr.ee/jacobnicotra), [Youtube](https://www.youtube.com/channel/UCgiOPMTbOH0djJzrurnTAuQ), [Website](http://jacobnicotra.com/), [Instagram](https://www.instagram.com/jacob_nicotra/), [Facebook](https://www.facebook.com/jacobarthurnicotra), [Drone Footage](https://jacob-nicotra-drone.com/), [Blog](https://www.jacobnicotrablog.com/), [Medium](https://medium.com/@jacobnicotra), [reddit](https://www.reddit.com/user/Jacob_Nicotra/), [Quora](https://www.quora.com/profile/Jacob-Nicotra), 
 - 😄 Pronouns: he/him
 
 
